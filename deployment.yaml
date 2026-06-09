@@ -18,6 +18,6 @@ spec:
     spec: 
       containers:
       - name: flask-container
-        image: richa111/flask-app:latest
+        image: richa111/flask-app:v3
         ports: 
         - containerPort: 5000
